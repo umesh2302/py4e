@@ -5,3 +5,4 @@ if float(hours) <= 40:
 else :
     pay = float(hours)*float(rate)*1.5
 print ("pay", pay)
+print ("done on github desktop")
